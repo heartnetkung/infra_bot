@@ -1,0 +1,17 @@
+{
+  "name": "infra_bot",
+  "version": "1.0.0",
+  "main": "./lib",
+  "repository": "git@github.com:heartnetkung/infra_bot.git",
+  "author": "heartnetkung <heartnetkung@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "jest": "^25.3.0",
+    "prettier": "^2.0.4",
+    "pretty-quick": "^2.0.1"
+  },
+  "dependencies": {
+    "superagent": "^5.2.2"
+  }
+}
